@@ -9,4 +9,4 @@ Based on: http://www.reactnativeexpress.com/react_redux<br>
 <br>
 Uses the ScrollView, I want to figure out how to use FlatList or ListView with Redux
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](images/ShoppingApp.png?raw=true "ScreenShot")

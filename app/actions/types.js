@@ -1,0 +1,17 @@
+// The types of actions that you can dispatch to modify the state of the store
+export const types = {
+  ADD: 'ADD',
+  EDIT: 'EDIT',
+  SORT: 'SORT',
+  CLEAR: 'CLEAR',
+  TOGGLE: 'TOGGLE',
+  TOGGLEALL: 'TOGGLEALL',
+  DELETE: 'DELETE',
+  ADD_DEFAULT: 'ADD_DEFAULT',
+  LOAD_DEFAULTS: 'LOAD_DEFAULTS',
+  TOGGLE_DEFAULT: 'TOGGLE_DEFAULT',
+  DELETE_DEFAULT: 'DELETE_DEFAULT',
+  CLEAR_DEFAULTS: 'CLEAR_DEFAULTS',
+  EDITOR_VISIBLE: 'EDITOR_VISIBLE',
+  MENU_VISIBLE: 'MENU_VISIBLE',
+}
